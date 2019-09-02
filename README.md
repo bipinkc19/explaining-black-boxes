@@ -16,3 +16,8 @@
 ![Overall](./images/forest_overall.png) <br>
 - Per prediction <br>
 ![Overall](./images/random_custom.png)
+
+## Lime
+
+- Per prediction as it is local <br>
+![Overall](./images/lime.png)
