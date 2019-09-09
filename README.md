@@ -6,8 +6,11 @@
 
 - Overall weight <br>
 ![Overall](./images/shap.png) <br>
-![Overall](./images/shap_age.png) <br>
-![Overall](./images/shap_em.png) <br>
+![Overall](./images/shap_overall.png) <br>
+![Overall](./images/shap_bar.png) <br>
+![Overall](./images/shap_s.png) <br>
+![Overall](./images/shap_s1.png) <br>
+
 - Per prediction <br>
 ![Overall](./images/shap_single.png)
 
