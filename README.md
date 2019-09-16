@@ -6,6 +6,7 @@
 
 - Overall weight <br>
 ![Overall](./images/shap.png) <br>
+## Shap values of all the records representing which variable play what kind of role in predicting the output. Eg: Sex when High (Male) playe a negative role in survival but female have very high chances of survival spread across other factors too
 ![Overall](./images/shap_overall.png) <br>
 ![Overall](./images/shap_bar.png) <br>
 ![Overall](./images/shap_s.png) <br>
